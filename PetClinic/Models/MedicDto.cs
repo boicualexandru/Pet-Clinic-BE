@@ -9,5 +9,4 @@ namespace PetClinic.Models
         public string Name { get; set; }
         public string Contact { get; set; }
     }
-    // abc
 }
