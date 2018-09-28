@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PetClinic", "PetClinic\PetClinic.csproj", "{263BB629-C9E4-448C-98EB-EA4E8E1C3049}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PetClinic.Api", "PetClinic\PetClinic.Api.csproj", "{263BB629-C9E4-448C-98EB-EA4E8E1C3049}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PetClinic.DataAccess", "PetClinic.DataAccess\PetClinic.DataAccess.csproj", "{F0AA157E-062E-4521-B092-DBFD7DBCA696}"
 EndProject
