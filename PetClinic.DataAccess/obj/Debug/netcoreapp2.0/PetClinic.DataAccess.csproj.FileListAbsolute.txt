@@ -1,0 +1,9 @@
+C:\Users\Alex\source\repos\PetClinic\PetClinic.DataAccess\bin\Debug\netcoreapp2.0\PetClinic.DataAccess.deps.json
+C:\Users\Alex\source\repos\PetClinic\PetClinic.DataAccess\bin\Debug\netcoreapp2.0\PetClinic.DataAccess.dll
+C:\Users\Alex\source\repos\PetClinic\PetClinic.DataAccess\obj\Debug\netcoreapp2.0\PetClinic.DataAccess.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\PetClinic\PetClinic.DataAccess\obj\Debug\netcoreapp2.0\PetClinic.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\PetClinic\PetClinic.DataAccess\obj\Debug\netcoreapp2.0\PetClinic.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\PetClinic\PetClinic.DataAccess\obj\Debug\netcoreapp2.0\PetClinic.DataAccess.AssemblyInfo.cs
+C:\Users\Alex\source\repos\PetClinic\PetClinic.DataAccess\bin\Debug\netcoreapp2.0\PetClinic.DataAccess.pdb
+C:\Users\Alex\source\repos\PetClinic\PetClinic.DataAccess\obj\Debug\netcoreapp2.0\PetClinic.DataAccess.dll
+C:\Users\Alex\source\repos\PetClinic\PetClinic.DataAccess\obj\Debug\netcoreapp2.0\PetClinic.DataAccess.pdb
