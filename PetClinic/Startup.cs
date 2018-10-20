@@ -29,19 +29,19 @@ namespace PetClinic
 
             services.AddCors();
 
-            services.AddDbContext<PetClinicContext>
-                (options => options.UseSqlServer("Data Source=DESKTOP-QP53EQL;Initial Catalog=PetClinic;Integrated Security=SSPI;"),
-                optionsLifetime: ServiceLifetime.Scoped);
+            //services.AddDbContext<PetClinicContext>
+            //    (options => options.UseSqlServer("Data Source=DESKTOP-QP53EQL;Initial Catalog=PetClinic;Integrated Security=SSPI;"),
+            //    optionsLifetime: ServiceLifetime.Scoped);
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IHostingEnvironment env)
         {
-            using (var serviceScope = app.ApplicationServices.GetRequiredService<IServiceScopeFactory>().CreateScope())
-            {
-                var context = serviceScope.ServiceProvider.GetService<PetClinicContext>();
-                context.Database.Migrate();
-            }
+            //using (var serviceScope = app.ApplicationServices.GetRequiredService<IServiceScopeFactory>().CreateScope())
+            //{
+            //    var context = serviceScope.ServiceProvider.GetService<PetClinicContext>();
+            //    context.Database.Migrate();
+            //}
 
 
             if (env.IsDevelopment())
